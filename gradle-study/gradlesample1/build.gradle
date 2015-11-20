@@ -1,0 +1,19 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'idea'
+
+mainClassName = 'packagename.Hoge'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'org.slf4j:slf4j-api:1.7.7'
+    testCompile "junit:junit:4.11"
+}
+
+task hello << {
+    println "Hello Gradle world!"
+    /* System.out.println("hello world");‚Å‚à“®‚­‚æ */
+}
