@@ -5,7 +5,7 @@ Javaツール勉強会@福岡 2015/11<br>
 2015/11/20(金) 19:30 〜 22:30<br>
 http://javatoolstudy-fukuoka.connpass.com/event/22273/
 
-予定内容
+内容
 
 | テーマ | 発表者 | スライド | その他資料 |
 |------------ |--------------|--------------|--------------|
@@ -16,3 +16,4 @@ http://javatoolstudy-fukuoka.connpass.com/event/22273/
 | その他発表 | @k_kato | [GitHub x Maven Central x Coveralls x CircleCI](http://javatoolstudyfukuoka.github.io/BuildTools/@k_kato/#/) | [（GitHub上）](https://github.com/JavaToolStudyFukuoka/JavaToolStudyFukuoka.github.io/tree/master/BuildTools/%40k_kato) |
 | その他発表 | @koduki | - | - |
 
+[togetter](http://togetter.com/li/903864)
